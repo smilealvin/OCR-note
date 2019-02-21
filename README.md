@@ -12,3 +12,5 @@ some memo for the OCR technology
 ## 一些数据集
 1. [清华的自然场景数据集](https://ctwdataset.github.io/)
 2. [某网络数据集https://pan.baidu.com/s/1QkI7kjah8SPHwOQ40rS1Pw密码：lu7m](https://pan.baidu.com/s/1QkI7kjah8SPHwOQ40rS1Pw)
+## 一个网络汇总笔记
+1. [https://cloud.tencent.com/developer/article/1092091](https://cloud.tencent.com/developer/article/1092091)
