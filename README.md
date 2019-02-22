@@ -25,5 +25,6 @@ some memo for the OCR technology
 4. [合成简单背景的, 扭曲的文本, 项目地址](https://github.com/Belval/TextRecognitionDataGenerator)
 5. [ICDAR数据集](http://rrc.cvc.uab.es/?com=introduction)
 6. [合成自然场景下的中文文本](https://github.com/JarveeLee/SynthText_Chinese_version)
+7. [星星比较少的合成自然场景下的中文文本模型https://github.com/wang-tf/Chinese_OCR_synthetic_data](https://github.com/wang-tf/Chinese_OCR_synthetic_data)
 ## 一个网络汇总笔记
 1. [https://cloud.tencent.com/developer/article/1092091](https://cloud.tencent.com/developer/article/1092091)
