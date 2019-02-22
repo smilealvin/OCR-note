@@ -21,7 +21,6 @@ some memo for the OCR technology
 3. [利用图片和文字, 合成自然场景下的文本, 40G, 800w个单词](http://www.robots.ox.ac.uk/~vgg/data/scenetext/)
 - [相应的项目地址](https://github.com/ankush-me/SynthText)
 - [10G,简单背景的英文文本](http://www.robots.ox.ac.uk/~vgg/data/text/)
-- [和上一条相似的数据集](http://www.robots.ox.ac.uk/~vgg/research/text/)
 4. [合成简单背景的, 扭曲的文本, 项目地址](https://github.com/Belval/TextRecognitionDataGenerator)
 5. [ICDAR数据集](http://rrc.cvc.uab.es/?com=introduction)
 6. [合成自然场景下的中文文本](https://github.com/JarveeLee/SynthText_Chinese_version)
