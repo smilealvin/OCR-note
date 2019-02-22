@@ -17,6 +17,9 @@ some memo for the OCR technology
 9. [https://github.com/Bartzi/see](https://github.com/Bartzi/see)
 10. [https://github.com/MaybeShewill-CV/CRNN_Tensorflow](https://github.com/MaybeShewill-CV/CRNN_Tensorflow)
 11. [https://github.com/oyxhust/CNN-LSTM-CTC-text-recognition](https://github.com/oyxhust/CNN-LSTM-CTC-text-recognition)
+12. [https://github.com/xieyufei1993/InceptText-Tensorflow](https://github.com/xieyufei1993/InceptText-Tensorflow)
+13. [https://github.com/jiangxiluning/FOTS.PyTorch](https://github.com/jiangxiluning/FOTS.PyTorch)
+14. [https://github.com/lvpengyuan/masktextspotter.caffe2](https://github.com/lvpengyuan/masktextspotter.caffe2)
 ## 一些论文
 [https://github.com/tangzhenyu/Scene-Text-Understanding](https://github.com/tangzhenyu/Scene-Text-Understanding)
 ## 一些数据集
