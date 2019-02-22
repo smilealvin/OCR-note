@@ -19,7 +19,8 @@ some memo for the OCR technology
 1. [清华的自然场景数据集](https://ctwdataset.github.io/)
 2. [某网络数据集, 300w条字符, https://pan.baidu.com/s/1QkI7kjah8SPHwOQ40rS1Pw密码：lu7m](https://pan.baidu.com/s/1QkI7kjah8SPHwOQ40rS1Pw)
 3. [利用图片和文字, 合成自然场景下的文本, 40G, 800w个单词](http://www.robots.ox.ac.uk/~vgg/data/scenetext/)
-   [     相应的项目地址](https://github.com/ankush-me/SynthText)
+   -[相应的项目地址](https://github.com/ankush-me/SynthText)
+   -[10G,简单背景的英文文本](http://www.robots.ox.ac.uk/~vgg/data/text/)
 4. [合成简单背景的, 扭曲的文本, 项目地址](https://github.com/Belval/TextRecognitionDataGenerator)
 5. [ICDAR数据集](http://rrc.cvc.uab.es/?com=introduction)
 ## 一个网络汇总笔记
