@@ -13,6 +13,10 @@ some memo for the OCR technology
 5. [https://github.com/Belval/CRNN/tree/master/CRNN](https://github.com/Belval/CRNN/tree/master/CRNN)
 6. [https://github.com/bear63/sceneReco](https://github.com/bear63/sceneReco)
 7. [一个将densenet和crnn做了对比的项目](https://github.com/xiaomaxiao/keras_ocr)
+8. [https://github.com/diaomin/crnn-mxnet-chinese-text-recognition](https://github.com/diaomin/crnn-mxnet-chinese-text-recognition)
+9. [https://github.com/Bartzi/see](https://github.com/Bartzi/see)
+10. [https://github.com/MaybeShewill-CV/CRNN_Tensorflow](https://github.com/MaybeShewill-CV/CRNN_Tensorflow)
+11. [https://github.com/oyxhust/CNN-LSTM-CTC-text-recognition](https://github.com/oyxhust/CNN-LSTM-CTC-text-recognition)
 ## 一些论文
 [https://github.com/tangzhenyu/Scene-Text-Understanding](https://github.com/tangzhenyu/Scene-Text-Understanding)
 ## 一些数据集
