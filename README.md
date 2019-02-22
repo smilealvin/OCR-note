@@ -35,4 +35,5 @@ some memo for the OCR technology
 8. [Coco数据集https://vision.cornell.edu/se3/coco-text-2/](https://vision.cornell.edu/se3/coco-text-2/)
 ## 一个网络汇总笔记
 1. [https://cloud.tencent.com/developer/article/1092091](https://cloud.tencent.com/developer/article/1092091)
-2. [http://www.cloudwalk.cn/news_detail_975.html][http://www.cloudwalk.cn/news_detail_975.html]
+2. [http://www.cloudwalk.cn/news_detail_975.html](http://www.cloudwalk.cn/news_detail_975.html)
+3. [https://yq.aliyun.com/articles/109555?t=t1](https://yq.aliyun.com/articles/109555?t=t1)
